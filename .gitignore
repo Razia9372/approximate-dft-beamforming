@@ -1,0 +1,27 @@
+
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB temporary files
+*.mex*
+*.slxc
+*.slx.r*
+
+# MATLAB code generation and caches
+slprj/
+codegen/
+
+# MATLAB Simulink cache
+*.slxc
+
+# MATLAB editor temporary files
+*.mlappinstall
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local MATLAB settings
+MATLABDesktop.xml
